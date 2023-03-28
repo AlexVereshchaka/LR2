@@ -1,0 +1,11 @@
+C:\Users\anastasia.s\source\repos\LB22\LB22\obj\Debug\LB22.csproj.AssemblyReference.cache
+C:\Users\anastasia.s\source\repos\LB22\LB22\obj\Debug\LB22.csproj.SuggestedBindingRedirects.cache
+C:\Users\anastasia.s\source\repos\LB22\LB22\obj\Debug\LB22.Form1.resources
+C:\Users\anastasia.s\source\repos\LB22\LB22\obj\Debug\LB22.Properties.Resources.resources
+C:\Users\anastasia.s\source\repos\LB22\LB22\obj\Debug\LB22.csproj.GenerateResource.cache
+C:\Users\anastasia.s\source\repos\LB22\LB22\obj\Debug\LB22.csproj.CoreCompileInputs.cache
+C:\Users\anastasia.s\source\repos\LB22\LB22\bin\Debug\LB22.exe.config
+C:\Users\anastasia.s\source\repos\LB22\LB22\bin\Debug\LB22.exe
+C:\Users\anastasia.s\source\repos\LB22\LB22\bin\Debug\LB22.pdb
+C:\Users\anastasia.s\source\repos\LB22\LB22\obj\Debug\LB22.exe
+C:\Users\anastasia.s\source\repos\LB22\LB22\obj\Debug\LB22.pdb
